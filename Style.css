@@ -1,0 +1,29 @@
+#texto{
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .container {
+    margin-top: 100px;
+    display: flex;
+    padding: 25px;
+}
+
+.texto{
+    padding-left: 15px;
+}
+
+nav {
+  background-color: aqua;
+}
+
+a {
+  background-color: rgb(83, 144, 214);
+  height: 50px;
+  width: 35%;
+  font-family: sans-serif;
+  text-decoration: none;
+  padding: 10px;
+  color: rgb(172, 243, 243);
+  border-radius: 10px;
+}

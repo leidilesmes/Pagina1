@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+}
+
+.imagen {
+    width: 350px;
+    margin-right: 50px;
+}
+.text {
+    background-color: rgb(167, 255, 243);
+}
+
